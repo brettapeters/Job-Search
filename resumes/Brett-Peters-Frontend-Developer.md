@@ -1,4 +1,4 @@
-Brett Peters | Front-end Developer
+# Brett Peters | Front-end Developer
 
 ----------
 - Boulder, CO
