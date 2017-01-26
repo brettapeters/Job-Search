@@ -34,7 +34,7 @@ Craig Hospital
 ----------
 ## *Education*
 
-*University of Colorado, 2008 - 2013*
+__*University of Colorado, 2008 - 2013*__
 - B.A., Integrative Physiology
 - Minor - Electrical Engineering
 - Pre-Med Coursework
